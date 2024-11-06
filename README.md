@@ -17,16 +17,16 @@ The main objectives of this project are:
 1. Data Import and Transformation
 Import Data: Load data from multiple Excel files, each containing information about restaurants in different continents.
 
-Remove Unnecessary Columns: Clean up the data by removing columns that do not contribute to the analysis.
+    Remove Unnecessary Columns: Clean up the data by removing columns that do not contribute to the analysis.
 
-Create Restaurant Name and Address Columns: Generate new columns to display the restaurant name and restaurant address.
+    Create Restaurant Name and Address Columns: Generate new columns to display the restaurant name and restaurant address.
 
 2. DAX Implementation
 Create Rating Slab: Using DAX, categorize the ratings into two groups:
 
-Above 4.5: Dark Green
+    Above 4.5: Dark Green
 
-4 to 4.4: Green
+    4 to 4.4: Green
 
 ### Measures to Create:
 Restaurant Count: Calculate the total number of restaurants in each region.
